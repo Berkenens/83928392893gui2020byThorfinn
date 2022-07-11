@@ -11,10 +11,6 @@ b:Label("Visual",{
     
 }) 
 
-b:Button("InfiniteJump",function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Berkenens/Unknown-InfiniteJump/main/Unknown-InfiniteJump"))()
-end)
-
 b:Button("GodMode(BuyShieldFirst)",function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Berkenens/Unknown-Godmode/main/Unknown-Godmode"))()
 end)
